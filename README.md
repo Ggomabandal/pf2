@@ -7,7 +7,7 @@
 원본 url: https://www.samsung.com/sec/
 
 ## 클론 웹사이트 스크린 샷 링크
-클론코딩페이지 url : https://ggomabandal.github.io/pf1/
+클론코딩페이지 url : https://ggomabandal.github.io/pf2/
 
 ![samsung-re](https://github.com/Ggomabandal/pf2/assets/142555219/e3553f21-07be-474c-a240-c1e17fc13286)
 
